@@ -12,7 +12,7 @@ c= a+b;
 x=1;
 y=4;
 z=x+y;
-=======
- 
 
->>>>>>> Stashed changes
+ 
+this f1 file
+
